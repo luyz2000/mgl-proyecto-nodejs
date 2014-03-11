@@ -1,1 +1,4 @@
 lalalalala
+git add -A .
+git commit -a -m "cambios nuevos"
+git push upstream master
